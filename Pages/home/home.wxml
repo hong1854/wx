@@ -1,0 +1,4 @@
+<!--Pages/home/home.wxml-->
+<text class="text">hello</text>
+<button size="mini">测试</button>
+
